@@ -20,8 +20,8 @@ public class Account {
 	}
 	
 	
-	protected void setBalance(){
-		
+	protected void setBalance(double m){
+		account=m;
 	}
 	
 }
